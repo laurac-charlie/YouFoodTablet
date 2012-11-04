@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YouFood</string>
+	<string name="title">Bienvenue chez the YouFood Inc.! Veuillez choisir le plat que vous souhaitez visualiser.</string>
+	
+	<!-- Detail -->
+    <string name="description"> Description :</string>
+    <string name="price"> Prix :</string>
+	
+	<string name="none"> None</string>
+    <string name="no_description"> No description</string>
+    <string name="ch0">0</string>
+	
+</resources>

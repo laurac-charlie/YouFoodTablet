@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+<item android:id="@+id/menu_panier" 
+      android:title="Allez au panier!"
+      android:icon="@drawable/panier"/>
+ 
+<item android:id="@+id/menu_close" 
+     android:title="Quitter"
+     android:icon="@drawable/close"/>
+</menu>
